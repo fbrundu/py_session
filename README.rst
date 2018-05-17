@@ -27,18 +27,18 @@ Features
 
 Displays modules imported together with version:
 
-```python
->>> from py_session import py_session
+.. code-block:: python
 
->>> py_session()
+    >>> from py_session import py_session
 
-re             	2.2.1         ipykernel      	4.8.2         json           	2.0.9
-IPython        	6.4.0         logging        	0.5.1.2       zlib           	1.0
-traitlets      	4.3.2         six            	1.11.0        ipython_genutils	0.2.0
-platform       	1.0.8         decorator      	4.3.0         argparse       	1.1
-pygments       	2.2.0         pexpect        	4.5.0         ptyprocess     	0.5.2
-...
-```
+    >>> py_session()
+
+    re             	2.2.1         ipykernel      	4.8.2         json           	2.0.9
+    IPython        	6.4.0         logging        	0.5.1.2       zlib           	1.0
+    traitlets      	4.3.2         six            	1.11.0        ipython_genutils	0.2.0
+    platform       	1.0.8         decorator      	4.3.0         argparse       	1.1
+    pygments       	2.2.0         pexpect        	4.5.0         ptyprocess     	0.5.2
+    ...
 
 
 Credits
