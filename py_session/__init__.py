@@ -4,6 +4,6 @@
 
 __author__ = """Francesco G. Brundu"""
 __email__ = 'francesco.brundu@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 from .py_session import py_session
