@@ -6,15 +6,6 @@ Python Session
 .. image:: https://img.shields.io/pypi/v/py_session.svg
         :target: https://pypi.python.org/pypi/py_session
 
-.. image:: https://img.shields.io/travis/fbrundu/py_session.svg
-        :target: https://travis-ci.org/fbrundu/py_session
-
-.. image:: https://readthedocs.org/projects/py-session/badge/?version=latest
-        :target: https://py-session.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
-
-
-
 
 Print session information
 
@@ -24,6 +15,12 @@ Print session information
 
 Features
 --------
+
+Installation:
+
+.. code-block:: shell
+
+    pip install py_session
 
 Displays modules imported together with version:
 
