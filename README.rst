@@ -22,7 +22,7 @@ Installation:
 
     pip install py_session
 
-Displays modules imported together with version:
+Displays modules imported sorted, together with version:
 
 .. code-block:: python
 
@@ -30,11 +30,14 @@ Displays modules imported together with version:
 
     >>> py_session()
 
-    re             	2.2.1         ipykernel      	4.8.2         json           	2.0.9
-    IPython        	6.4.0         logging        	0.5.1.2       zlib           	1.0
-    traitlets      	4.3.2         six            	1.11.0        ipython_genutils	0.2.0
-    platform       	1.0.8         decorator      	4.3.0         argparse       	1.1
-    pygments       	2.2.0         pexpect        	4.5.0         ptyprocess     	0.5.2
+    69 modules found
+    IPython             	6.4.0                   idna                	2.6                     prompt_toolkit      	1.0.15
+    anndata             	0.6.1                   ipaddress           	1.0                     ptyprocess          	0.5.2
+    appdirs             	1.4.3                   ipykernel           	4.8.2                   py_session          	0.1.1
+    argparse            	1.1                     ipython_genutils    	0.2.0                   pygments            	2.2.0
+    backcall            	0.1.0                   ipywidgets          	7.2.1                   pyparsing           	2.2.0
+    bioservices         	1.5.2                   jedi                	0.12.0                  pytz                	2018.4
+    bs4                 	4.6.0                   joblib              	0.11                    re                  	2.2.1
     ...
 
 
