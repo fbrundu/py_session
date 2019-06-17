@@ -28,7 +28,7 @@ Displays modules imported sorted, together with version:
 
     >>> from py_session import py_session
 
-    >>> py_session()
+    >>> py_session(include_na=False, return_list=False)
 
     69 modules found
     IPython             	6.4.0                   idna                	2.6                     prompt_toolkit      	1.0.15
